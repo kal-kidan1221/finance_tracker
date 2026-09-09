@@ -101,5 +101,6 @@ $result = $stmt->get_result();
         </table>
     </div>
     <footer>&copy; 2026 Web Programming Assignment</footer>
+    <script src="script.js"></script>
 </body>
 </html>
